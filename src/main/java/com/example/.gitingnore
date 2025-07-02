@@ -1,0 +1,17 @@
+IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+Eclipse
+.project
+.classpath
+.settings/
+
+Maven / Gradle
+target/
+build/
+
+Pliki systemowe
+.DS_Store
+Thumbs.db
